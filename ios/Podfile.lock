@@ -17,7 +17,7 @@ DEPENDENCIES:
   - TensorFlow-experimental
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  https://github.com/cocoapods/specs.git:
     - AppCenter
     - AppCenterReactNativeShared
     - AppCenterXCUITestExtensions
@@ -29,6 +29,6 @@ SPEC CHECKSUMS:
   AppCenterXCUITestExtensions: 8825ed941664fa21d6740a5ed6928a84c06623ac
   TensorFlow-experimental: c38ed2a43acaa2d42ce4174ac076efaa76e26a12
 
-PODFILE CHECKSUM: 82463fc48b1b3f30de3dd383181376b84ab6b8db
+PODFILE CHECKSUM: c012fa6c83508840d85e5db016866c2411db29fe
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.5.3

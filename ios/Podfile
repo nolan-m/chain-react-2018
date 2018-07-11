@@ -31,7 +31,7 @@ end
 
 use_frameworks! # required for projects with Swift sources
 
-target 'AppCenterSampleUITests' do 
+target 'AppCenterSampleUITests' do
   pod 'AppCenterXCUITestExtensions', '1.0.0'
 end
 
